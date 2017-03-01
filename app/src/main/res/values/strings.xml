@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom Adapter</string>
+    <string name="large_text">LARGE TEXT</string>
+
+    <string-array name="list_adapter_array">
+        <item>Android</item>
+        <item>Microsoft</item>
+        <item>Ebay</item>
+        <item>Apple</item>
+        <item>Amazon</item>
+        <item>Google</item>
+    </string-array>
+</resources>
